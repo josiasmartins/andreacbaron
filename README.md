@@ -66,6 +66,6 @@
    <br>
    <h3 align="center">link para os repositórios que possui uma demostração do projeto</h3>
    <div align="center">
-     <a href="https://github.com/stars/josiasmartins/lists/my-stack"><button>repo com git</buttom></a>
+     <a href="https://github.com/stars/andreacbaron/lists/my-stack"><button>repo com git</buttom></a>
   </div>
    
