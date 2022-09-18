@@ -61,7 +61,7 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   </p>
   
-   ![Snake animation](https://github.com/josiasmartins/josiasmartins/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/andreacbaron/andreacbaron/blob/output/github-contribution-grid-snake.svg)
 
    <br>
    <h3 align="center">link para os repositórios que possui uma demostração do projeto</h3>
